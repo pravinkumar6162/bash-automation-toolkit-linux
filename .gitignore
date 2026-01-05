@@ -1,4 +1,11 @@
+# generated files (not tracked)
 backups/
 logs/
 reports/
+screenshots/
+
+# temp files
+*.tar.gz
+*.log
+*.tmp
 
